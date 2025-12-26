@@ -24,18 +24,19 @@ Key features include:
 
 ## File Structure
 
+File Structure
 project_5/
-├── src/
-│ ├── client.c # RTP client implementation
-│ ├── network.c # Simulated network functions
-│ ├── network.h
-│ ├── queue.c # Thread-safe message queue
-│ ├── queue.h
-│ ├── rtp.c # RTP protocol implementation
-│ └── rtp.h
-├── rtp-server.py # Python server for testing (optional)
-├── Makefile
-└── Project 5.pdf # Project description/documentation
+src/
+- client.c – RTP client implementation
+- network.c – Simulated network functions
+- network.h
+- queue.c – Thread-safe message queue
+- queue.h
+- rtp.c – RTP protocol implementation
+- rtp.h
+- rtp-server.py – Python server for testing (optional)
+Makefile
+Project 5.pdf – Project description/documentation
 
 ---
 Running the Project
