@@ -56,5 +56,3 @@ Queueing: Thread-safe message queues for send/receive operations.
 2. Navigate to the `src/` folder.
 3. Compile using the provided `Makefile`:
 
-```bash
-
