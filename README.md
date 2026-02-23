@@ -1,8 +1,6 @@
 # Reliable Transport Protocol (RTP) Project
 
 **Author:** Vania Munjar  
-**GTID:** 903871348  
-**Semester:** Spring 2025
 
 ---
 
